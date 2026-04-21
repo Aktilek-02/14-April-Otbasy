@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e8d05ea7-2375-4ce2-80c9-98831e628d44",
+    "Name": "UsrBpm_Detail",
+    "ModifiedOnUtc": "\/Date(1776747076000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "bpm detail",
+    "DependsOn": []
+  }
+}

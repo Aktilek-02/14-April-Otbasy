@@ -1,5 +1,10 @@
 <Project>
 	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrBpm/Schemas/UsrBpm/UsrBpm.cs" Condition="Exists('$(PkgPath)/UsrBpm/Schemas/UsrBpm/UsrBpm.cs')" />
+		<Compile Include="$(PkgPath)/UsrBpm/Schemas/UsrBpmDriveTypes/UsrBpmDriveTypes.cs" Condition="Exists('$(PkgPath)/UsrBpm/Schemas/UsrBpmDriveTypes/UsrBpmDriveTypes.cs')" />
+		<Compile Include="$(PkgPath)/UsrBpm/Schemas/UsrBpmStatuses/UsrBpmStatuses.cs" Condition="Exists('$(PkgPath)/UsrBpm/Schemas/UsrBpmStatuses/UsrBpmStatuses.cs')" />
+		<Compile Include="$(PkgPath)/UsrBpm/Schemas/UsrDriveType/UsrDriveType.cs" Condition="Exists('$(PkgPath)/UsrBpm/Schemas/UsrDriveType/UsrDriveType.cs')" />
 		<Compile Include="$(PkgPath)/UsrBpm/Schemas/UsrTrafficLight/UsrTrafficLight.cs" Condition="Exists('$(PkgPath)/UsrBpm/Schemas/UsrTrafficLight/UsrTrafficLight.cs')" />
+		<Compile Include="$(PkgPath)/UsrBpm/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs" Condition="Exists('$(PkgPath)/UsrBpm/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs')" />
 	</ItemGroup>
 </Project>

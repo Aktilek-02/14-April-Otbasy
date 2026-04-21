@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="bpm form page" />
+			<Item Name="LocalizableStrings.addRecord_e7t1s33_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ejoezno_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ta6gqru_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_vj1kc2z_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_zh4zlv4_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

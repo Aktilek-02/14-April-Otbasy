@@ -644,7 +644,12 @@
 	</ItemGroup>
 	<ItemGroup Label="Standalone package external assembly references" />
 	<ItemGroup Label="Entity Files">
+		<Compile Remove="$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrBpm/UsrBpm.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrBpm/UsrBpm.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrBpmDriveTypes/UsrBpmDriveTypes.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrBpmDriveTypes/UsrBpmDriveTypes.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrBpmStatuses/UsrBpmStatuses.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrBpmStatuses/UsrBpmStatuses.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrDriveType/UsrDriveType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrDriveType/UsrDriveType.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrTrafficLight/UsrTrafficLight.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrTrafficLight/UsrTrafficLight.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBpm/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs')" />
 	</ItemGroup>
 	<ItemGroup Label="3rd Party References"></ItemGroup>
 	<Target Name="Paths" BeforeTargets="BeforeCompile">

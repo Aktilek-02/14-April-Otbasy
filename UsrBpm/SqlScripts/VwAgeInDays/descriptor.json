@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "31c585a7-141b-047a-72f3-c514365299f9",
+    "Name": "VwAgeInDays",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1776607247000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

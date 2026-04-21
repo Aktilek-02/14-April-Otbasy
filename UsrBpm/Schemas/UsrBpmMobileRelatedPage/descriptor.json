@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d73d6947-01c0-415c-8b2d-1b0d96c6178d",
+    "Name": "UsrBpmMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1776747076000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "bpm (Mobile page settings)",
+    "DependsOn": []
+  }
+}

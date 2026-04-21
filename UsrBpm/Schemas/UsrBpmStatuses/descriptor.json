@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "762d4e3a-ea22-4c68-bb40-416427eca97a",
+    "Name": "UsrBpmStatuses",
+    "ModifiedOnUtc": "\/Date(1776750550000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Bpm statuses",
+    "DependsOn": []
+  }
+}

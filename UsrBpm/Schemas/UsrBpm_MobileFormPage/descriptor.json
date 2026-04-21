@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "635454b7-c37f-43ef-9c37-2adfefa743b4",
+    "Name": "UsrBpm_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1776747076000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "bpm mobile form page",
+    "DependsOn": []
+  }
+}

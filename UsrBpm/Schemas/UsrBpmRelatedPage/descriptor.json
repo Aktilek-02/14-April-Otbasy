@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "492c005e-b20d-48f4-a946-aba4f934eb5d",
+    "Name": "UsrBpmRelatedPage",
+    "ModifiedOnUtc": "\/Date(1776747076000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "bpm (Page settings)",
+    "DependsOn": []
+  }
+}

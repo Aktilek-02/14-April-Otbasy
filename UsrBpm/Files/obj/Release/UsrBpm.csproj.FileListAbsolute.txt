@@ -1,0 +1,10 @@
+C:\Academy\Builds\Y1Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBpm\Files\Bin\UsrBpm.dll
+C:\Academy\Builds\Y1Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBpm\Files\Bin\UsrBpm.pdb
+C:\Academy\Builds\Y1Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBpm\Files\obj\Release\UsrBpm.csproj.AssemblyReference.cache
+C:\Academy\Builds\Y1Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBpm\Files\obj\Release\UsrBpm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\Builds\Y1Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBpm\Files\obj\Release\UsrBpm.AssemblyInfoInputs.cache
+C:\Academy\Builds\Y1Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBpm\Files\obj\Release\UsrBpm.AssemblyInfo.cs
+C:\Academy\Builds\Y1Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBpm\Files\obj\Release\UsrBpm.csproj.CoreCompileInputs.cache
+C:\Academy\Builds\Y1Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBpm\Files\obj\Release\UsrBpm.sourcelink.json
+C:\Academy\Builds\Y1Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBpm\Files\obj\Release\UsrBpm.dll
+C:\Academy\Builds\Y1Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBpm\Files\obj\Release\UsrBpm.pdb

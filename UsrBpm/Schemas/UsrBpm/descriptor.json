@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "72cab5f5-4702-4600-909a-7ae4806cb3b4",
+    "Name": "UsrBpm",
+    "ModifiedOnUtc": "\/Date(1776752250000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "bpm",
+    "DependsOn": []
+  }
+}
